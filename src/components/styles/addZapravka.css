@@ -1,0 +1,134 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 100%;
+}
+
+.modal h2 {
+  margin-top: 0;
+}
+
+.modal input[type="number"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.modal button {
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: background 0.3s;
+}
+
+.modal button:hover {
+  background: #0056b3;
+}
+
+.modal button:last-child {
+  background: #6c757d;
+}
+
+.modal button:last-child:hover {
+  background: #5a6268;
+}
+
+/* Стиль для контейнера информации */
+.limit-fetch-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f9f9f9;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.limit-fetch-container.arrested {
+  border-color: red;
+}
+
+.info-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.info-block .label {
+  font-weight: bold;
+}
+
+.action-icons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.action-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: #007bff;
+  transition: color 0.3s;
+}
+
+.action-button:hover {
+  color: #d31c0f;
+}
+
+.action-button svg {
+  vertical-align: middle;
+}
+
+.ticket-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* расстояние между цифрами */
+  margin-bottom: 10px; /* расстояние между цифрами и остальной частью карточки */
+}
+
+.ticket {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.ticket-done {
+  color: green;
+  font-weight: bold;
+  border: 2px solid green;
+}

@@ -1,0 +1,290 @@
+{
+  "cars": [
+    {
+      "owner": "Баркинхоев Руслан.Б",
+      "car": "Chevrolet Niva",
+      "numbers": "О230ОС",
+      "limit": 340,
+      "arrest": "false",
+      "remaining": 143.83,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "2101"
+    },
+    {
+      "owner": "Баркинхоев Магомед.М",
+      "car": "Vaz-21074",
+      "numbers": "Р419ВК 34",
+      "limit": 100,
+      "arrest": "false",
+      "remaining": -1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "59d3"
+    },
+    {
+      "owner": "Заурбеков Магомед.С",
+      "car": "Lada-niva",
+      "numbers": "О688КО 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": -1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "42c7"
+    },
+    {
+      "owner": "Баркинхоев А.И",
+      "car": "Lada-granta",
+      "numbers": "Т138ЕА 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": 200,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "d5b7"
+    },
+    {
+      "owner": "Костоев Хасан.М",
+      "car": "Lada-niva",
+      "numbers": "Т534КА 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": 94.07,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "5919"
+    },
+    {
+      "owner": "Плиев Ислам",
+      "car": "Vaz-21074",
+      "numbers": "Е883КХ 116",
+      "limit": 250,
+      "arrest": "false",
+      "remaining": 156.4,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "311c"
+    },
+    {
+      "owner": "Охрана",
+      "car": "Vaz-21074",
+      "numbers": "К117АН 116",
+      "limit": 250,
+      "arrest": "false",
+      "remaining": 250,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "97eb"
+    },
+    {
+      "owner": "Саралиев Руслан.А",
+      "car": "Chevrolet Niva",
+      "numbers": "Т409ОО 06",
+      "limit": 330,
+      "arrest": "false",
+      "remaining": 330,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "d895"
+    },
+    {
+      "owner": "Баркинхоев Адам.Р",
+      "car": "Vaz-21074",
+      "numbers": "О534ОХ 06",
+      "limit": 250,
+      "arrest": "false",
+      "remaining": 250,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "bdd1"
+    },
+    {
+      "owner": "Харсиев Муса.Ю",
+      "car": "Lada-niva",
+      "numbers": "О611ТА 06",
+      "limit": 250,
+      "arrest": "false",
+      "remaining": 0.7899999999999991,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "a193"
+    },
+    {
+      "owner": "Дзенгиев Асхаб.А",
+      "car": "Lada-niva",
+      "numbers": "О644СН 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": 46,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "6a9d"
+    },
+    {
+      "owner": "Кодзоев Махмуд",
+      "car": "Lada-granta",
+      "numbers": "Т133АК 168",
+      "limit": 250,
+      "arrest": "false",
+      "remaining": 34.01,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "5c71"
+    },
+    {
+      "owner": "Боков И.А",
+      "car": "Lada-niva",
+      "numbers": "О413ОК 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": 200,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "02b5"
+    },
+    {
+      "owner": "Дзейтов М.С",
+      "car": "Камри",
+      "numbers": "Т403ЕУ 06",
+      "limit": "+",
+      "arrest": "false",
+      "remaining": "+",
+      "ticket1": false,
+      "ticket2": false,
+      "id": "a551"
+    },
+    {
+      "owner": "Тангиев А.М",
+      "car": "Lada-niva",
+      "numbers": "Т272ЕЕ 06",
+      "limit": 200,
+      "arrest": "false",
+      "remaining": 11,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "a329"
+    },
+    {
+      "owner": "Олигов А.М",
+      "car": "Lada-niva",
+      "numbers": "Т135ЕО 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "5744"
+    },
+    {
+      "owner": "Дакиев Х.М",
+      "car": "Lada-priora",
+      "numbers": "Т543АО",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "31b5"
+    },
+    {
+      "owner": "Эжиев М.М",
+      "car": "Lada-niva",
+      "numbers": "Т131ЕО 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "deba"
+    },
+    {
+      "owner": "Хамчиев Ш.О",
+      "car": "Lexus 470",
+      "numbers": "Т841АС 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "b6eb"
+    },
+    {
+      "owner": "Хамчиев М.Х",
+      "car": "Lada-priora",
+      "numbers": "Т080ЕУ 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "abec"
+    },
+    {
+      "owner": "Алиев И.М",
+      "car": "Lada-niva",
+      "numbers": "О218ВО 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "25e5"
+    },
+    {
+      "owner": "Гиреев",
+      "car": "Lada-niva",
+      "numbers": "О483ОН 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "c82a"
+    },
+    {
+      "owner": "Долиев Р.С",
+      "car": "Буханка",
+      "numbers": "В548АТ 06",
+      "limit": 1111,
+      "arrest": "false",
+      "remaining": 1111,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "46f9"
+    },
+    {
+      "owner": "Мамилов Мурад",
+      "car": "Lada-niva",
+      "numbers": "О403КО 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "3480"
+    },
+    {
+      "owner": "Оздоева Милана",
+      "car": "Lada-niva",
+      "numbers": "О425КО 06",
+      "limit": 1,
+      "arrest": "false",
+      "remaining": 1,
+      "ticket1": false,
+      "ticket2": false,
+      "id": "727c"
+    },
+    {
+      "id": "1889",
+      "owner": "Могушков",
+      "car": "приора",
+      "numbers": "351",
+      "limit": 0,
+      "arrest": "false",
+      "ticket1": false,
+      "ticket2": false,
+      "remaining": 0
+    }
+  ]
+}
